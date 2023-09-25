@@ -1,8 +1,8 @@
 # Hi there, I am Ido Ali 👋
 
-🧑‍🔬 Data Scientist
-👨‍🎓 Gadjah Mada University
-🏙️ Live in Jakarta, Indonesia
+- 🧑‍🔬 Data Scientist
+- 👨‍🎓 Gadjah Mada University
+- 🏙️ Live in Jakarta, Indonesia
 
 ## Here's a few things that I can do:
 
